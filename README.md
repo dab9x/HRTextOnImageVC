@@ -10,8 +10,11 @@ This is a view controller allow you add a text on image.
 Just add HRTextOnImageVC.swift and HRTextOnImageVC.swift to your project
 
 # Usage
+```swift
 let textOnImageVC = HRTextOnImageVC()
 textOnImageVC.image = UIImage(named: "your image name")
+```
+and then push/present textOnImageVC.
 
 # License and Authorship
 Released under the MIT License. Copyright 2017 Dat. Please open issues on GitHub.
