@@ -1,6 +1,8 @@
 # HRTextOnImageVC
 This is a view controller allow you add a text on image.
 
+![Alt text](https://github.com/datle021194/HRTextOnImageVC/blob/master/demo.png?raw=true "Demo")
+
 # Feature
 * Add text on image
 * Change text's color with color slider
